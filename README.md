@@ -1,1 +1,2 @@
 # Week6SqlOdev9
+INNER JOIN
